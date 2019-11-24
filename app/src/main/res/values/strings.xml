@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">hack</string>
+    <string name="giveNum">giveNum</string>
+    <string name="Enter">enter</string>
+    <string name="view">5</string>
+    <string name="view1">N/A</string>
+    <string name="Pregnancy">Pregnancy?</string>
+    <string name="Glucose">Glucose Level?</string>
+    <string name="BloodPress">Blood Pressure?</string>
+    <string name="SkinThick">Skin Thickness?</string>
+    <string name="Insulin">Insulin Level?</string>
+    <string name="BMI">BMI?</string>
+    <string name="DiabetesPedi">Genetic Synthesis Value?</string>
+    <string name="Age">Age?</string>
+</resources>
